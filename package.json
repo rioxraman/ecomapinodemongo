@@ -1,0 +1,31 @@
+{
+  "name": "ecomapi",
+  "version": "1.0.0",
+  "description": "ecom products and api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "ecom",
+    "products",
+    "api"
+  ],
+  "author": "raman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rioxraman/ecomapinodemongo/issues"
+  },
+  "homepage": "https://github.com/rioxraman/ecomapinodemongo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
